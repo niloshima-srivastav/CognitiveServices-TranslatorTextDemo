@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TranslatorTextAPITest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="baseURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.cognitive.microsofttranslator.com/</Value>
+    </Setting>
+    <Setting Name="suscriptionKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">b7d3540ea1914eadb691b27016f5e4ec</Value>
+    </Setting>
+    <Setting Name="bearerToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJyZWdpb24iOiJlYXN0dXMyIiwic3Vic2NyaXB0aW9uLWlkIjoiYjdhMjc5N2IwYjQ3NDU2YmE3ODNkYjEyZWRkNTgyMzEiLCJwcm9kdWN0LWlkIjoiVGV4dFRyYW5zbGF0b3IuUzEiLCJjb2duaXRpdmUtc2VydmljZXMtZW5kcG9pbnQiOiJodHRwczovL2FwaS5jb2duaXRpdmUubWljcm9zb2Z0LmNvbS9pbnRlcm5hbC92MS4wLyIsImF6dXJlLXJlc291cmNlLWlkIjoiL3N1YnNjcmlwdGlvbnMvNzFhOTYyNDctNzRmNi00Mzk2LThkOGMtMDMwYzBhOWViM2IzL3Jlc291cmNlR3JvdXBzL215Y29nbml0aXZlc2VydmljZXNkZW1vL3Byb3ZpZGVycy9NaWNyb3NvZnQuQ29nbml0aXZlU2VydmljZXMvYWNjb3VudHMvYXpuc215dHJhbnNsYXRvcnRleHRkZW1vIiwic2NvcGUiOiJodHRwczovL2FwaS5taWNyb3NvZnR0cmFuc2xhdG9yLmNvbS8iLCJhdWQiOiJ1cm46bXMubWljcm9zb2Z0dHJhbnNsYXRvciIsImV4cCI6MTU5ODkwMDgyNywiaXNzIjoidXJuOm1zLmNvZ25pdGl2ZXNlcnZpY2VzIn0.6cfIGdpOphr_t4cquhs0EW0ZR2s8KTPXsVo52pc4hUw</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
